@@ -1,0 +1,6 @@
+Approved logo used unchanged as existing SVG paths; only uniform scale and placement applied.
+PNG and JPEG: 1080 x 1350, sRGB.
+04 SVG: editable vector shapes, typography outlined.
+05 HTML: self-contained source with live text and embedded Cormorant Garamond Medium and DM Sans Regular fonts. Open at 100% browser zoom.
+No product imagery is used. No existing brand assets were overwritten.
+Font sources: https://github.com/google/fonts/tree/main/ofl/cormorantgaramond and https://github.com/google/fonts/tree/main/ofl/dmsans

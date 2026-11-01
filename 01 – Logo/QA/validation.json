@@ -1,0 +1,176 @@
+{
+  "reference_sha256": {
+    "approved-transparent-wordmark.png": "32d8a0b96404ceb1c27df90371e584dc67a1371205402591c56ff31c33f3867e",
+    "identity-reference.png": "f081edaebccad8fab47370363a290d067a1d30719141d44faa21efac77e7d354",
+    "earlier-reference.png": "f081edaebccad8fab47370363a290d067a1d30719141d44faa21efac77e7d354"
+  },
+  "svg": {
+    "00_wordmark_master.svg": {
+      "paths": 5,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "01_primary_espresso.svg": {
+      "paths": 31,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "03_primary_ivory.svg": {
+      "paths": 32,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "05_reverse_logo.svg": {
+      "paths": 32,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "07_monogram.svg": {
+      "paths": 1,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "09_packaging_stamp.svg": {
+      "paths": 32,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "11_monochrome_black.svg": {
+      "paths": 31,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "12_monochrome_white.svg": {
+      "paths": 31,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "Extras/reverse_transparent.svg": {
+      "paths": 31,
+      "external_dependencies": false,
+      "raster_embeds": false
+    },
+    "Extras/instagram_monogram.svg": {
+      "paths": 2,
+      "external_dependencies": false,
+      "raster_embeds": false
+    }
+  },
+  "png": {
+    "00_wordmark_master.png": {
+      "size": [
+        3000,
+        1230
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 3285351,
+      "background_intent": "transparent"
+    },
+    "02_primary_espresso.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 4046236,
+      "background_intent": "transparent"
+    },
+    "04_primary_ivory.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "background_intent": "#F5F0E8"
+    },
+    "06_reverse_logo.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "background_intent": "#49352C"
+    },
+    "08_monogram.png": {
+      "size": [
+        3000,
+        3000
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 8223902,
+      "background_intent": "transparent"
+    },
+    "10_packaging_stamp.png": {
+      "size": [
+        3000,
+        1650
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 4514161,
+      "background_intent": "transparent"
+    },
+    "Extras/monochrome_black.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 4046236,
+      "background_intent": "transparent"
+    },
+    "Extras/monochrome_white.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 4046236,
+      "background_intent": "transparent"
+    },
+    "Extras/reverse_transparent.png": {
+      "size": [
+        3000,
+        1500
+      ],
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixels": 4046236,
+      "background_intent": "transparent"
+    },
+    "Extras/instagram_monogram.png": {
+      "size": [
+        3000,
+        3000
+      ],
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixels": 0,
+      "background_intent": "#F5F0E8"
+    }
+  },
+  "trace_mask_intersection_over_union": 0.9736239504706979,
+  "maximum_silhouette_deviation_source_px": 2.0,
+  "pdf": {
+    "usage_pages": 4,
+    "embedded_logo_images": 0,
+    "color": "process CMYK; generic conversion",
+    "pdf_x_certified": false,
+    "direct_figma_import_test": false
+  },
+  "small_size_recommendations": {
+    "wordmark_canvas_px": 160,
+    "descriptor_lockup_canvas_px": 480,
+    "monogram_canvas_px": 32,
+    "physical_press_test": false
+  }
+}
